@@ -1,0 +1,214 @@
+{
+    "code": 200,
+    "data": {
+        "id": 113821513,
+        "userId": 515522946,
+        "avatar": "http://p2.music.126.net/9bRYYVcQF1OBm9y6iDpotA==/109951168718227383.jpg",
+        "userName": "奇锐骏",
+        "song": {
+            "album": {
+                "alias": [],
+                "artist": {
+                    "albumSize": 0,
+                    "alias": [],
+                    "briefDesc": "",
+                    "extProperties": null,
+                    "id": 0,
+                    "img1v1Id": 0,
+                    "img1v1Url": "http://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                    "musicSize": 0,
+                    "name": "",
+                    "picId": 0,
+                    "picUrl": "",
+                    "topicPerson": 0,
+                    "trans": "",
+                    "xInfo": null
+                },
+                "artists": [
+                    {
+                        "albumSize": 0,
+                        "alias": [],
+                        "briefDesc": "",
+                        "extProperties": null,
+                        "id": 21138,
+                        "img1v1Id": 0,
+                        "img1v1Url": "http://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                        "musicSize": 0,
+                        "name": "V.A.",
+                        "picId": 0,
+                        "picUrl": "",
+                        "topicPerson": 0,
+                        "trans": "",
+                        "xInfo": null
+                    }
+                ],
+                "blurPicUrl": "http://p2.music.126.net/O07sU_CNJqFsSPrEIWiaFw==/109951165849529405.jpg",
+                "briefDesc": "",
+                "commentThreadId": "R_AL_3_125398683",
+                "company": "Lantis",
+                "companyId": 0,
+                "copyrightId": 2706441,
+                "description": "",
+                "extProperties": {
+                    "picId_str": "109951165849529405"
+                },
+                "id": 125398683,
+                "mark": 0,
+                "name": "TVアニメ『ウマ娘 プリティーダービー Season 2』ANIMATION DERBY Season 2 vol.2 木漏れ日のエール",
+                "pic": 109951165849529400,
+                "picId": 109951165849529400,
+                "picUrl": "http://p2.music.126.net/O07sU_CNJqFsSPrEIWiaFw==/109951165849529405.jpg",
+                "publishTime": 1615305600000,
+                "size": 4,
+                "songs": [],
+                "status": 0,
+                "subType": "录音室版",
+                "tags": "",
+                "transName": null,
+                "type": "Single",
+                "xInfo": {
+                    "picId_str": "109951165849529405"
+                }
+            },
+            "alias": [
+                "TV动画《赛马娘》第二季片尾曲"
+            ],
+            "artists": [
+                {
+                    "albumSize": 0,
+                    "alias": [],
+                    "briefDesc": "",
+                    "extProperties": null,
+                    "id": 17282,
+                    "img1v1Id": 0,
+                    "img1v1Url": "http://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                    "musicSize": 0,
+                    "name": "Machico",
+                    "picId": 0,
+                    "picUrl": "",
+                    "topicPerson": 0,
+                    "trans": "",
+                    "xInfo": null
+                },
+                {
+                    "albumSize": 0,
+                    "alias": [],
+                    "briefDesc": "",
+                    "extProperties": null,
+                    "id": 1038268,
+                    "img1v1Id": 0,
+                    "img1v1Url": "http://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                    "musicSize": 0,
+                    "name": "大西沙織",
+                    "picId": 0,
+                    "picUrl": "",
+                    "topicPerson": 0,
+                    "trans": "",
+                    "xInfo": null
+                }
+            ],
+            "audition": null,
+            "bMusic": {
+                "bitrate": 128000,
+                "dfsId": 0,
+                "extProperties": null,
+                "extension": "mp3",
+                "id": 6549517873,
+                "name": null,
+                "playTime": 295280,
+                "size": 4725490,
+                "sr": 44100,
+                "volumeDelta": -62106,
+                "xInfo": null
+            },
+            "commentThreadId": "R_SO_4_1829878954",
+            "copyFrom": "",
+            "copyright": 0,
+            "copyrightId": 2706441,
+            "crbt": null,
+            "dayPlays": 0,
+            "disc": "01",
+            "duration": 295280,
+            "extProperties": {
+                "transNames": [
+                    "林隙漏光下的鼓舞"
+                ]
+            },
+            "fee": 0,
+            "ftype": 0,
+            "hMusic": {
+                "bitrate": 320000,
+                "dfsId": 0,
+                "extProperties": null,
+                "extension": "mp3",
+                "id": 6549517869,
+                "name": null,
+                "playTime": 295280,
+                "size": 11813660,
+                "sr": 44100,
+                "volumeDelta": -66147,
+                "xInfo": null
+            },
+            "hearTime": 0,
+            "id": 1829878954,
+            "lMusic": {
+                "bitrate": 128000,
+                "dfsId": 0,
+                "extProperties": null,
+                "extension": "mp3",
+                "id": 6549517873,
+                "name": null,
+                "playTime": 295280,
+                "size": 4725490,
+                "sr": 44100,
+                "volumeDelta": -62106,
+                "xInfo": null
+            },
+            "mMusic": {
+                "bitrate": 192000,
+                "dfsId": 0,
+                "extProperties": null,
+                "extension": "mp3",
+                "id": 6549517871,
+                "name": null,
+                "playTime": 295280,
+                "size": 7088213,
+                "sr": 44100,
+                "volumeDelta": -63626,
+                "xInfo": null
+            },
+            "mark": 0,
+            "mp3Url": null,
+            "mvid": 0,
+            "name": "木漏れ日のエール",
+            "no": 1,
+            "playedNum": 0,
+            "popularity": 90,
+            "position": 0,
+            "ringtone": "",
+            "rtUrl": null,
+            "rtUrls": [],
+            "rtype": 0,
+            "rurl": null,
+            "score": 90,
+            "sign": null,
+            "starred": false,
+            "starredNum": 0,
+            "status": 0,
+            "transName": "林隙漏光下的鼓舞",
+            "xInfo": {
+                "transNames": [
+                    "林隙漏光下的鼓舞"
+                ]
+            }
+        },
+        "content": {
+            "type": "LISTENING",
+            "iconUrl": "http://p2.music.126.net/ZzcDpkl5WdQXW69pnSZ4aQ==/109951169213088641.jpg",
+            "content": "在听：ヴァンパイア (feat. 花里みのり\u0026桐谷遥\u0026桃井愛莉\u0026日野森雫\u0026初音ミク)",
+            "actionUrl": "orpheus://song/1829878954"
+        },
+        "extInfo": null
+    },
+    "message": ""
+}
